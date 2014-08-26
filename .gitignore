@@ -1,0 +1,23 @@
+.idea
+sercore.txt
+ClassLoader.save.php
+en_superfish.html
+mail.log
+protected/var/trees
+bsea.xml
+testRev.xml
+**/RES*
+**/RES/uploads
+config.production.php
+config.development.php
+config.testing.php
+htdocs/lists/config/config.php
+
+
+## File-based project format
+*.ipr
+*.iws
+*.iml
+
+## Additional for IntelliJ
+out/
