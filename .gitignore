@@ -17,6 +17,7 @@ htdocs/lists/config/config.php
 **/fw/GENERAL
 **/fw/MODELS
 **/fw/PLUGINS
+htdocs/assets
 
 ## File-based project format
 *.ipr
