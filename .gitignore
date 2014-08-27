@@ -21,3 +21,14 @@ htdocs/lists/config/config.php
 
 ## Additional for IntelliJ
 out/
+
+## The rest of the directory structure
+src/
+htdocs.bak
+protected-old
+src-test/
+uploads/
+.htgroup
+.htpasswd
+errors/
+tmp/
