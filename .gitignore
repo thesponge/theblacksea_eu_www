@@ -13,6 +13,10 @@ config.development.php
 config.testing.php
 htdocs/lists/config/config.php
 
+# Teh symlinks shall be ignored from now on
+**/fw/GENERAL
+**/fw/MODELS
+**/fw/PLUGINS
 
 ## File-based project format
 *.ipr
