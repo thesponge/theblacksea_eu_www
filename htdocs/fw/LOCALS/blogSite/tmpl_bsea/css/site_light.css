@@ -166,12 +166,13 @@ li.shareText {list-style: none; display: inline-block;}
 
 /* stiluri pentru foto */
 .imageColumn {
+    display: inline-block;
+    margin-right: 0.5%;
+    /*outline: 1px solid #FF0000;*/
     position: relative;
-    float:left;
-    display:inline-block;
     text-align: left;
-    margin-right:0.5%;
-    width:24.5%;
+    vertical-align: top;
+    width: 24%;
 }
 
 .archivePrevRec {
